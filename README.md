@@ -7,3 +7,12 @@ Dashboard criado para desafio onde foi solicitado a criação de um dashboard on
 
 ##### Módulo 2
 O desafio implica na criação de uma segunda página do relatório, onde as informações do lucro sejam melhor explicadas. Utilizei de recursos gráficos como cartões, ribbon chart, botões interativos, árvore hierárquica e gráfico de cascata. Além disso, preocupei-me em usar cores que estão em sintonia, na mesma palheta de cores.
+
+##### Módulo 3
+Em desenvolvimento
+
+##### Módulo 4
+Em desenvolvimento
+
+##### Módulo 5
+Em desenvolvimento
